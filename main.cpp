@@ -4,11 +4,11 @@ using namespace std;
 
 int main(){
 
-    int a;
+    int a=10;
     
     cout<<"hello";
     cout<<"git is fun";
-    
+    cout<<a*a;
     return 0;
 
 }
