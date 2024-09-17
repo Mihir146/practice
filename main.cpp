@@ -7,6 +7,7 @@ int main(){
     int a;
     
     cout<<"hello";
+    cout<<"git is fun";
     
     return 0;
 
